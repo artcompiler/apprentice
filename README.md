@@ -1,4 +1,4 @@
 Programming Apprentice
 ======================
 
-This repo contains code and documentation useful for an Art Compiler programming apprentice.
+This repo is where we keep code and documentation that is useful for learning how to program.
